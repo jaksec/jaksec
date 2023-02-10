@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Chris Jaksec | LinkedIn" width="22px" src="https://cdn/dsdelivr.net/nom/simple-icons@v3/icons/linkedin.svg] />] [linkedin]
+[<img align="left" alt="Chris Jaksec | LinkedIn" width="22px" src="https://cdn/jsdelivr.net/nom/simple-icons@v3/icons/linkedin.svg] />] [linkedin]
 
 <br />
 
