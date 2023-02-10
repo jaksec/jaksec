@@ -7,17 +7,17 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/chris-jaksec-442a0b23a#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/chris-jaksec-442a0b23a#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/chris-jaksec-442a0b23a#gh-light-mode-only){:target="_blank"}
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/chris-jaksec-442a0b23a#gh-dark-mode-only){:target="_blank"}
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][react]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]{:target="_blank"}
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][react]{:target="_blank"}
 [<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />][c]
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" style="padding-right:10px;" />][python]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" style="padding-right:10px;" />][python]{:target="_blank"}
 
 <br />
 <br />
