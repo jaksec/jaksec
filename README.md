@@ -1,8 +1,8 @@
 ### Hi, I'm Chris, welcome to my GitHub profile! 👋
 
-## I'm a sophomore CS major at UCF and aspiring fullstack engineer
+## I'm a sophomore CS major at UCF and aspiring fullstack engineer.
 - 📚 Most recent project: Portfolio Website (in progress)
-- 📖 I'm currently learning algorithms and data structures in C and ReactJS
+- 📖 I'm currently learning algorithms and data structures in Java & C++
 
 ### Connect with me:
 
