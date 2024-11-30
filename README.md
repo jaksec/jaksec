@@ -15,8 +15,10 @@
 [<img align="left" alt="Vite" width="26px" src="https://www.svgrepo.com/show/374167/vite.svg" style="padding-right:10px;" />][vite]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][react]
 [<img align="left" alt="Express" width="26px" src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" style="padding-right:10px;" />][express]
-[<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />][c]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" style="padding-right:10px;" />][python]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="padding-right:10px;" />][javascript]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="padding-right:10px;" />][typescript]
+[<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />][c]
 
 <br />
 <br />
@@ -28,3 +30,5 @@
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/
 [vite]: https://vite.dev/
+[javascript]: https://www.javascript.com/
+[typescript]: https://www.typescriptlang.org/
