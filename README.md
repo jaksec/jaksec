@@ -24,7 +24,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
 [<img align="left" alt="Vite" width="26px" src="https://www.svgrepo.com/show/374167/vite.svg" style="padding-right:10px;" />][vite]
-[<img align="left" alt="C" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27728%2Fnode-js&psig=AOvVaw1ohZ8ec2-Ogr54iH0H6evb&ust=1733037633011000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCJlrbCg4oDFQAAAAAdAAAAABAE" style="padding-right:10px;" />][node]
+[<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:10px;" />][node]
 [<img align="left" alt="C" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" style="padding-right:10px;" />][mongodb]
 
 <br />
