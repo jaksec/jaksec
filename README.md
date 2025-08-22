@@ -2,18 +2,17 @@
 
 ## I'm a senior CS major at UCF and aspiring fullstack engineer.
 
-```python
-  class Chris:
-    def __init__(self):
-      self.age = 21
-      self.based_in = "Florida"
-      self.major = "Computer Science"
-```
-
 ### Languages:
 
+[<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" style="padding-right:10px;" />][python]
+[<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="padding-right:10px;" />][javascript]
+[<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="padding-right:10px;" />][typescript]
+[<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />][c]
+[<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />][c++]
+[<img align="left" alt="C" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="padding-right:10px;" />][java]
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,typescript)](https://skillicons.dev)
+<br />
+<br />
 
 ### Tools:
 
@@ -42,6 +41,7 @@
 
 [linkedin]: https://www.linkedin.com/in/chris-jaksec-442a0b23a/
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
+[c++]: https://en.wikipedia.org/wiki/C%2B%2B
 [react]: https://reactjs.org/
 [express]: https://expressjs.com/
 [python]: https://www.python.org/
