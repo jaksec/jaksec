@@ -6,7 +6,6 @@
 
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" style="padding-right:10px;" />][python]
 [<img align="left" alt="Java" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" style="padding-right:10px;" />][java]
-[<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />][c]
 [<img align="left" alt="JavaScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="padding-right:10px;" />][javascript]
 [<img align="left" alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="padding-right:10px;" />][typescript]
 [<img align="left" alt="TypeScript" width="40px" src="https://www.svgrepo.com/show/452228/html-5.svg" style="padding-right:10px;" />][html]
@@ -21,7 +20,7 @@
 [<img align="left" alt="TypeScript" width="40px" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" style="padding-right:10px;" />][next]
 [<img align="left" alt="Express" width="40px" src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" style="padding-right:10px;" />][express]
 [<img align="left" alt="C" width="40px" src="https://www.svgrepo.com/show/374118/tailwind.svg" style="padding-right:10px;" />][tailwind]
-[<img align="left" alt="C" width="40px" src="https://icon.icepanel.io/Technology/svg/Google-Cloud.svg" style="padding-right:10px;" />][gcp]
+[<img align="left" alt="C" width="40px" src="https://symbols.getvecta.com/stencil_4/10_google-bigquery.0f26b56a8d.svg" style="padding-right:10px;" />][bigquery]
 [<img align="left" alt="C" width="40px" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" style="padding-right:10px;" />][apache-airflow]
 [<img align="left" alt="C" width="40px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" style="padding-right:10px;" />][postgresql]
 [<img align="left" alt="C" width="40px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" style="padding-right:10px;" />][mongodb]
@@ -40,8 +39,6 @@
 <div style="clear: both;"></div>
 
 [linkedin]: https://www.linkedin.com/in/chris-jaksec-442a0b23a/
-[c]: https://en.wikipedia.org/wiki/C_(programming_language)
-[c++]: https://en.wikipedia.org/wiki/C%2B%2B
 [react]: https://reactjs.org/
 [express]: https://expressjs.com/
 [python]: https://www.python.org/
@@ -51,7 +48,7 @@
 [java]: https://www.java.com/en/
 [mongodb]: https://www.mongodb.com/
 [tailwind]: https://tailwindcss.com/
-[gcp]: https://cloud.google.com/
+[bigquery]: https://cloud.google.com/bigquery?hl=en
 [postgresql]: https://www.postgresql.org/
 [apache-airflow]: https://airflow.apache.org/
 [next]: https://nextjs.com/
