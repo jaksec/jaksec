@@ -12,8 +12,7 @@
 [<img align="left" alt="TypeScript" width="40px" src="https://www.svgrepo.com/show/452228/html-5.svg" style="padding-right:10px;" />][html]
 [<img align="left" alt="TypeScript" width="40px" src="https://www.svgrepo.com/show/452185/css-3.svg" style="padding-right:10px;" />][css]
 
-<br />
-<br />
+<br clear="left" />
 
 ### Tools:
 
@@ -27,8 +26,7 @@
 [<img align="left" alt="C" width="40px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" style="padding-right:10px;" />][postgresql]
 [<img align="left" alt="C" width="40px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" style="padding-right:10px;" />][mongodb]
 
-<br />
-<br />
+<br clear="left" />
 
 ### Connect with me:
 
@@ -39,7 +37,7 @@
   <img src="./img/linkedin-dark.svg" alt="LinkedIn" width="32" />
 </a>
 
-<br />
+<div style="clear: both;"></div>
 
 [linkedin]: https://www.linkedin.com/in/chris-jaksec-442a0b23a/
 [c]: https://en.wikipedia.org/wiki/C_(programming_language)
